@@ -1,2 +1,3 @@
+npm i
 cd public
 npm run gulp
