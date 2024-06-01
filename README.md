@@ -7,14 +7,14 @@ Aplicación de agendación
 Sigue estos pasos para instalar el proyecto:
 
 ```bash
-git clone https://github.com/Gabo-div/uneg-sase-frontend
+git clone https://github.com/Po0lvo0209/AppSalon_MVC.git
 npm install
 ```
 
 ## Ejecución
 ```bash
 cd public
-npm run start
+npm run gulp
 ```
 
 ###### Agregar un usuario a la base de datos para poder acceder
