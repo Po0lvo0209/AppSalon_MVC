@@ -124,7 +124,7 @@ CREATE TABLE `usuarios` (
 
 LOCK TABLES `usuarios` WRITE;
 /*!40000 ALTER TABLE `usuarios` DISABLE KEYS */;
-INSERT INTO `usuarios` VALUES (1,' Diego','Bermudez','diegobl9do@gmail.com','131231231',1,0,'65b329c016d8e ','$2y$10$O5RfHWmEE.IayK6S9O0.gOkXGwi1z.f4Z.dN9oZMB6CtlnRtUhhNe'),(2,' aleza','quispe','alexa@gmail.com','132131231',0,0,'65b32af1c7d36 ','$2y$10$8hn2uDMto8lL6D98n8hK1ulaw99/1DQQDEisare5/LliHc3cjkRjm'),(3,' Diego','Bermudez','dsdsadas@gmail.com','109231312',0,0,'65b547a923f9e ','$2y$10$PQR9S7Mp2wiALWv0r5GMLeDiHVO0jVKjn.5wB/UhbzOPpXiek7Qmm'),(4,'Diego','Bermn','fsdfsdf@gmail.com','123123123',0,1,'','$2y$10$ifdSjosqBStB8hCcSWocVOvFHKcBbyP.bj.aqbjAGVa1xmjlaBGUi'),(5,'alexa','quispe','alexaas@gmail.com','1313213',0,1,'','$2y$10$hDMENDjDuAODg9ZmHDMSceudr1ewUpZBDRofqwmlT308qv2biOHRm'),(6,'Hola','hola','hola@gmail.com','123131312',0,1,'','$2y$10$mQVVpQqZUHOundx8JCHEsuRZAiKtPeEUXf2/4RAdP0GUhYrjj98Fa'),(7,'perez','bermudez','perez@gmail.com','123455678',1,1,'','$2y$10$.iHYPrpjeyF8Da/ezHXcgOV.RvvA05usxIQv2sogy1MxlaQHiDgMO'),(10,'kiara','kitty','kiara@gmail.com','182318381',0,1,'','$2y$10$qvKYKy0YOCLB2LFItgCVD.1mQ00Lc6d4rOAK3vupTUEIQFh/gzesO');
+INSERT INTO `usuarios` VALUES (1,' Diego','Bermudez','ejemplo@gmail.com','131231231',1,0,'65b329c016d8e ','$2y$10$O5RfHWmEE.IayK6S9O0.gOkXGwi1z.f4Z.dN9oZMB6CtlnRtUhhNe'),(2,' alexa','quispe','alexa@gmail.com','132131231',0,0,'65b32af1c7d36 ','$2y$10$8hn2uDMto8lL6D98n8hK1ulaw99/1DQQDEisare5/LliHc3cjkRjm');
 /*!40000 ALTER TABLE `usuarios` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
